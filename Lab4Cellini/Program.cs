@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Data;
 
 namespace Lab4Cellini
@@ -39,6 +40,7 @@ namespace Lab4Cellini
                 {
                     Console.WriteLine("You must enter a valid number.");
                 }
+                
             }
 
         }
